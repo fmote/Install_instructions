@@ -22,9 +22,11 @@ then we are ready to create a Python virtual environment
 ## Install Jupyter
 
 Activate the environment
+
     source <myenv>/bin/activate
 
 Install the Jupyter package
+
     pip install jupyter
     
 Add some valuable packages for academic work
